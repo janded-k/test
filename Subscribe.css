@@ -1,0 +1,41 @@
+p{
+    font-weight: bolder;
+}
+
+.rem{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+   padding-top: 10px;
+}
+
+.rem input{
+   width: 20%;  
+   height: 30px;
+}
+
+.cardno input{
+    width: 70%;
+    height: 30px;
+}
+
+.cardtype{
+display: flex;
+flex-direction: row;
+gap: 5px;
+padding-top: 5px;
+}
+
+.email input{
+    width: 70%;
+    height: 30px;
+}
+
+.btn{
+padding-top: 10px;
+}
+
+.btn button{
+    width: 70%;
+    height: 25px;
+}
